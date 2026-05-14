@@ -1,7 +1,7 @@
 # Enterprise VLAN, LACP & DHCP Network Lab
 
 ## 📌 Project Overview
-This project simulates a small enterprise network using Cisco switches and routers in a virtual environment (Packet Tracer / GNS3).
+This project simulates a small enterprise network using Cisco switches and routers in a virtual environment (Packet Tracer).
 
 The design focuses on real-world networking concepts including:
 - VLAN segmentation
@@ -69,7 +69,7 @@ show vlan brief
 show ip interface brief
 show interfaces trunk
 show etherchannel summary
-
+```
 ---
 
 ## 🎯 Learning Outcomes
