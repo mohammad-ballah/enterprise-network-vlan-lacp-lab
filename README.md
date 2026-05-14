@@ -71,6 +71,7 @@ show interfaces trunk
 show etherchannel summary
 
 ---
+
 ## 🎯 Learning Outcomes
 
 This project provides hands-on experience in:
@@ -81,3 +82,5 @@ This project provides hands-on experience in:
 - Setting up EtherChannel (LACP) for link redundancy and bandwidth aggregation
 - Configuring DHCP services with relay (ip helper-address)
 - Understanding and applying Cisco switching concepts in real environments
+
+---
