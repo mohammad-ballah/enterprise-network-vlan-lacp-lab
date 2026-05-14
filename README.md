@@ -69,13 +69,15 @@ show vlan brief
 show ip interface brief
 show interfaces trunk
 show etherchannel summary
+
 ---
+## 🎯 Learning Outcomes
 
-## 🎯 Learning Outcome
+This project provides hands-on experience in:
 
-This project demonstrates practical hands-on experience in:
-- Enterprise network design
-- VLAN segmentation
-- Layer 3 switching
-- Network redundancy (LACP)
-- DHCP relay configuration
+- Designing and implementing an enterprise network topology
+- Configuring VLANs for network segmentation and isolation
+- Implementing Inter-VLAN routing using a Layer 3 switch
+- Setting up EtherChannel (LACP) for link redundancy and bandwidth aggregation
+- Configuring DHCP services with relay (ip helper-address)
+- Understanding and applying Cisco switching concepts in real environments
