@@ -84,3 +84,11 @@ This project provides hands-on experience in:
 - Understanding and applying Cisco switching concepts in real environments
 
 ---
+
+## 👨‍💻 Author
+
+**Name:** Mohammad Ballah  
+**Field:** Network Engineering (Graduated)  
+**Location:** Khartoum, Sudan  
+**Email:** mohammadballah@outlook.com  
+**Focus Areas:** Networking, Cloud, Infrastructure Automation  
